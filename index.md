@@ -1,3 +1,3 @@
 ## Assignment 1
 
-[RMarkdown Assignment](https://github.com/pjournal/mef04-atacansefer/blob/gh-pages/Assingment1.html)
+[RMarkdown Assignment](https://pjournal.github.io/mef04-atacansefer/Assingment1.html)
